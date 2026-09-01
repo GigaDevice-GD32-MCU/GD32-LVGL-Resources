@@ -23,7 +23,7 @@ For more GD32 software resources, please visit the official [GigaDevice-GD32-MCU
 
 ---
 
-# GD32 × LVGL资源汇总
+# GD32 × LVGL 资源汇总
 
 本仓库用于集中整理 **GigaDevice GD32 MCU 官方 LVGL 示例工程**。
 
