@@ -16,6 +16,8 @@ The table below summarizes the currently identified official LVGL repositories a
 | GD32F5HC | GD32F5HC-EVAL | V8.3.11 | 240×320 | RGB565 | SPI | [GD32F5HC_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32F5HC_EVAL_LVGL) |
 | GD32H759 | GD32H759I-EVAL | V8.3.11 | 480×272 | RGB565 | RGB / TLI | [GD32H759_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32H759_EVAL_LVGL) |
 | GD32W515 | GD32W515-EVAL | V8.3.11 | 320×240 | RGB565 | SPI | [GD32W515_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32W515_EVAL_LVGL) |
+| GD32F470 | GD32F470-EVAL | V8.3.11 | 480×272  | RGB565 | RGB / TLI | [GD32F470_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32F470_EVAL_LVGL) |
+| GD32VW553 | GD32VW553_EVAL | V8.3.11 | 320×240 | RGB565 | SPI | [GD32VW553_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32VW553_EVAL_LVGL) |
 
 These projects are provided as reference implementations for GD32-based embedded GUI applications using LVGL. For the latest information about each MCU, evaluation board, display configuration, and software environment, please refer to the corresponding official repository.
 
@@ -41,6 +43,8 @@ For more GD32 software resources, please visit the official [GigaDevice-GD32-MCU
 | GD32F5HC | GD32F5HC-EVAL | V8.3.11 | 240×320 | RGB565 | SPI | [GD32F5HC_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32F5HC_EVAL_LVGL) |
 | GD32H759 | GD32H759I-EVAL | V8.3.11 | 480×272 | RGB565 | RGB / TLI | [GD32H759_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32H759_EVAL_LVGL) |
 | GD32W515 | GD32W515-EVAL | V8.3.11 | 320×240 | RGB565 | SPI | [GD32W515_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32W515_EVAL_LVGL) |
+| GD32F470 | GD32F470-EVAL | V8.3.11 | 480×272  | RGB565 | RGB / TLI | [GD32F470_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32F470_EVAL_LVGL) |
+| GD32VW553 | GD32VW553_EVAL | V8.3.11 | 320×240 | RGB565 | SPI | [GD32VW553_EVAL_LVGL](https://github.com/GigaDevice-GD32-MCU/GD32VW553_EVAL_LVGL) |
 
 这些工程主要用于提供 **GD32 MCU + LVGL** 嵌入式图形应用的官方参考实现。关于具体 MCU、评估板、显示屏配置以及软件环境，请以对应官方仓库中的 README 和源码为准。
 
